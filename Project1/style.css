@@ -34,6 +34,7 @@
 }
 .imgContainer{
     border-radius: 50%;
+    
     overflow: hidden; 
 }
 .imgContainer, img{
@@ -41,7 +42,8 @@
     width: 300px;
 }
 
-/* aboutSection */ 
+                        /* aboutSection */ 
+
 .aboutSection{
     margin-top: 50px;
 }
